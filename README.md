@@ -4,7 +4,6 @@ Tekijä: Olli Koskeli
 
 Sisältö: Repositorio sisältää opintojakson Oppimispäiväkirjat 1-3. 
 
-- [Oppimispäiväkirja 1](paivakirja1.md)
 
 ## Oppimispäiväkirja 1 – Paikallinen Git
 
@@ -27,19 +26,33 @@ Harjoitus 2 ja Harjoitus 3 tuntuivat hieman sekavilta (osin alun Git Bash-sekoil
 ### Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
+
 | `git config` | Gitin konfigurointiin liittyviä komentoja |
+
 | `git --version` | Tulostaa asennetun Git-version |
+
 | `git init` | Alustaa uuden Git-repositorion |
+
 | `git status` | Kertoo repositorion tilan |
+
 | `git add` | Lisää muutokset staging-alueelle |
+
 | `git commit -m` | Tallentaa muutokset repositorion historiaan |
+
 | `git log` | Näyttää commit-historian |
+
 | `git rm` | Poistaa tiedoston Git-hallinnasta |
+
 | `git tag` | Lisää tunnisteen commitille |
+
 | `git reset` | Poistaa tiedoston staging-alueelta |
+
 | `git revert` | Kumuaa aiemman commitin |
+
 | `git branch` | Luo tai listaa haaroja |
+
 | `git switch` | Vaihtaa haaraa |
+
   
 ## Oppimispäiväkirja 2 – Hajautettu Git
 
@@ -64,12 +77,19 @@ Git status kertoi että olen up-to-date “origin/masterin” kanssa. Git merge 
 ### Osiossa käyttämäni Git-komennot
 | Komento | Kuvaus |
 |------|------|
+
 | `git remote add` | Lisää etärepositorion |
+
 | `git branch` | Näyttää tai muokkaa haaroja |
+
 | `git push` | Vie muutokset etärepositorioon |
+
 | `git pull` | Hakee ja yhdistää etärepon muutokset |
+
 | `git fetch` | Hakee etärepon tiedot |
+
 | `git status` | Näyttää repositorion tilan |
+
 | `git switch` | Vaihtaa haaraa |
 
   
