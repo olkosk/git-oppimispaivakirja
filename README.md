@@ -1,3 +1,5 @@
-# git-oppimispaivakirja
+Kurssin nimi:  Git-versionhallinta - SOF013AS2A-3002
 
-Tämä on kurssin oppimispäiväkirja.
+Tekijä: Olli Koskeli
+
+Sisältö: Repositorio sisältää opintojakson Oppimispäiväkirjat 1-3. 
